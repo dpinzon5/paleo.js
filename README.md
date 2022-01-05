@@ -1,6 +1,6 @@
 #Paleo JS
 
-Back in my day, we didn't code with all these fancy abstracted JavaScript methods like `push` and `slice`. We did things manually with `for` loops and basic operators. It made use strong. Built character. So do you have what it takes to go paleo and throw out all those modern coding conveniences?
+Back in my day, we didn't code with all these fancy abstracted JavaScript methods like `push` and `slice`. We did things manually with `for` loops and basic operators. It made us strong. Built character. So do you have what it takes to go paleo and throw out all those modern coding conveniences?
 
 This is nonsense of course. Methods like `split` and `concat` are profoundly useful and any decent engineer should know and use them. But have you ever wondered what's going on under the hood? What if you needed to micromanage performance and had to implement one or two manually? Or maybe you need a little practice, and taking a closer look at these important functions happens to be a fantastic way to challenge your knowledge of JS fundamentals.
 
